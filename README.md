@@ -132,3 +132,6 @@ contunue? Y/N
 N
 ```
 
+**离线使用**
+
+参考https://huggingface.co/transformers/installation.html
