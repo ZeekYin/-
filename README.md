@@ -1,6 +1,7 @@
 # 完形填空
 基于transformers的N选一完形填空
 huggingface transformers：https://huggingface.co/transformers/index.html
+If you need Japanese translation，please contact me
 # 完形填空
 
 ### 作者不对任何错误答案等承担任何责任。使用本代码意味着你同意本文件夹下的所有条款。
@@ -60,7 +61,7 @@ unmasker("Hello I'm a [MASK] model.")
   'token_str': 'fine'}]
 ```
 
-说明环境已经正确被配置。
+说明环境已经被正确配置。
 
 接下来前往
 
@@ -82,7 +83,7 @@ unmasker("Hello I'm a [MASK] model.")
 
 
 
-即可。
+即可。使用完成后请将top_k的值修改回5。
 
 #### Windows：
 
