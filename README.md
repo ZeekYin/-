@@ -67,7 +67,7 @@ unmasker("Hello I'm a [MASK] model.")
 
 接下来前往
 
-`/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/transformers/pipelines `
+`/python的运行目录/site-packages/transformers/pipelines `
 
 打开`fill_mask.py`
 
