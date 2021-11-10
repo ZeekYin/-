@@ -14,7 +14,7 @@ If you need Japanese translation，please contact me
 
 首先请安装python3，之后使用
 
-`pip install transformer`
+`pip install transformers`
 
 安装huggingface的transformers包
 
