@@ -2,6 +2,7 @@
 基于transformers的N选一完形填空
 huggingface transformers：https://huggingface.co/transformers/index.html
 # 完形填空
+### 作者不对任何错误答案等承担任何责任。使用本代码意味着你同意本文件夹下的所有条款。
 
 ## 1.安装
 
