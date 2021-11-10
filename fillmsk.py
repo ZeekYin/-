@@ -1,3 +1,7 @@
+# Copyright (c) Zeek Yin. All rights reserved.
+# Licensed under the MIT license. See LICENSE file in the project root for full license information.
+# Also read README.md. IF you use this code, it means you agree everything in README and LICENSE
+
 from transformers import pipeline
 from transformers.pipelines import fill_mask
 unmasker=pipeline('fill-mask', model='bert-base-uncased')
