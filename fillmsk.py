@@ -1,6 +1,7 @@
 # Copyright (c) Zeek Yin. All rights reserved.
 # Licensed under the MIT license. See LICENSE file in the project root for full license information.
 # Also read README.md. IF you use this code, it means you agree everything in README and LICENSE
+#v1.1
 
 from transformers import pipeline
 import re
