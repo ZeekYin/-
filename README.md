@@ -8,6 +8,11 @@ If you need Japanese translation，please contact me
 
 ### 作者不对任何错误答案等承担任何责任。使用本代码意味着你同意本文件夹下的所有条款。
 
+### 更新内容
+#### v1.1 
+添加了针对某校的quiz的支持。具体为可以在输入选项数目后直接从Safari浏览器中复制，粘贴后直接得到结果
+防止水表，此处不做演示。使用时请在提示“running mode”时输入1
+
 ## 1.安装
 
 #### Mac：
