@@ -9,6 +9,7 @@ huggingface transformers：https://huggingface.co/transformers/index.html
 # 注意
 
 ### 本コードを使用した際に発生したいかなる問題について責任を負わない。このrepositoryにある全ての規約を了承し同意することができない場合は使用できません。
+### このrepositoryは英語の勉強用のものであり、試験の不正行為は絶対におやめください。
 
 ### Update
 
