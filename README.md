@@ -7,6 +7,7 @@ If you need Japanese translation，please contact me
 # 完形填空
 
 ### 作者不对任何错误答案等承担任何责任。使用本代码意味着你同意本文件夹下的所有条款。
+### 本程序旨在帮助学习英语，请勿用于考试作弊。
 
 ### 更新内容
 #### v1.1 
