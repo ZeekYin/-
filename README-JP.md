@@ -18,7 +18,7 @@ huggingface transformers：https://huggingface.co/transformers/index.html
 ある学校のクイズをサポートした。選択肢の数を入力してサイトからコピーすれば結果が得られる。
 トラブル回避のため、ここは説明をしない。“running mode”の表示があったときに1を入力すれば使用できる。
 
-## 1.安装
+## 1.インストール
 
 #### Mac：
 
