@@ -12,6 +12,13 @@ huggingface transformers：https://huggingface.co/transformers/index.html
 ### このrepositoryは英語の勉強用のものであり、試験の不正行為は絶対におやめください。
 
 ### Update
+#### v1.2
+
+##### new feature:
+ある学校のmulti-question to multi-option式のクイズをサポートした。問題数を入力してサイトからコピーすれば結果が得られる。
+トラブル回避のため、ここも説明をしない。“running mode”の表示があったときに2を入力すれば使用できる。
+##### bug fix: 
+例外処理を加えた。これで正しくない入力があっても終了しないので、再起動の時間を節約できた。
 
 #### v1.1 
 
