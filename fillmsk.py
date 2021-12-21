@@ -63,8 +63,9 @@ while continu == '':
                 b = input()
                 b = input()
                 candidate = input()
+                candidate=candidate.strip(" ")
                 candidates.append(candidate)
-                ls = unmasker(sentence)
+            ls = unmasker(sentence)
         except Exception as e:
             print("Unexpected input")
             md=0
@@ -84,6 +85,7 @@ while continu == '':
                 tx = input()
             rw_opt = input()
             candidates = rw_opt.split(" ")
+            print(candidates)
             print("*")
             opts = []
             cd_ls = []
@@ -97,7 +99,7 @@ while continu == '':
                     if word in candidates:
                         cds.append(wordp)
                 cd_ls.append(cds)
-            print(cd_ls)
+            #print(cd_ls)
             for wd in candidates:
                 visit[wd] = False
             for i in range(0, q_num):
