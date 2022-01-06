@@ -6,8 +6,11 @@ huggingface transformers：https://huggingface.co/transformers/index.html
 If you need Japanese translation，please contact me
 # 完形填空
 
-### 作者不对任何错误答案等承担任何责任。使用本代码意味着你同意本文件夹下的所有条款。
-### 本程序旨在帮助学习英语，请勿用于考试作弊。
+### 作者不对任何错误答案等承担任何责任。使用本代码意味着你同意以下所有条款。
+### 我承诺自行承担使用此代码所带来的一切后果
+### 我承诺不将此repository下所有内容作非法亦或是违反所属单位（公司，学校等）的规程之用途
+### 我承诺不使用本repository来进行作弊等学术不端的行为
+### 我理解本程序旨在帮助学习英语，我将用适当的方法使用此工具。
 
 ### 更新内容
 #### v1.2
