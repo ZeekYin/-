@@ -104,6 +104,7 @@ while continu == '':
                 visit[wd] = False
             for i in range(0, q_num):
                 tmp.append("")
+            mx_sc=0
             dfs(0, 0)
             print(mx_sc)
             print(wds)
